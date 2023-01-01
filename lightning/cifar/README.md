@@ -19,5 +19,5 @@ and it will install all the other libraries as well.
 We can run the code with the following:
 
 ```
-python main.py -config=config.py
+python main.py --config=config.py
 ```
