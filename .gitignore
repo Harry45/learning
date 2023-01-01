@@ -1,3 +1,7 @@
+# our files and folders 
+lightning/cifar/data/
+lightning/cifar/logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
